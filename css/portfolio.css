@@ -1,3 +1,13 @@
+h1{
+  text-align: center;
+}
+.jumbotron{
+  color: #003333;
+  background: linear-gradient(to bottom right, #009999 25%,  #006666 75%);
+}
+.jumbotron a{
+  font-family: monospace;
+}
 .Grand-canyon{
   height: 500px;
   width: 350px;
@@ -6,12 +16,13 @@
   border-color: #007399;
   border-style: outset;
 }
-h1{
-  text-align: center;
-}
-.jumbotron{
-  color: #003333;
-  background: linear-gradient(to bottom right, #009999 25%,  #006666 75%);
+.Morocco{
+  height: 500px;
+  width: 350px;
+  margin: 30px;
+  border: 8px;
+  border-color: #007399;
+  border-style: outset;
 }
 body{
   background: linear-gradient(to top left, #e6ffff 25%,  #99ccff 75%);
@@ -22,6 +33,9 @@ body{
 .panel-body{
   font-size: 17px;
 }
+.panel-body a{
+  text-decoration: underline;
+}
 .well{
   background: linear-gradient(to bottom right, #009999 25%,  #006666 75%);
 }
@@ -29,11 +43,6 @@ body{
   font-size: 15px;
   font-style: oblique;
 }
-.Morocco{
-  height: 500px;
-  width: 350px;
-  margin: 30px;
-  border: 8px;
-  border-color: #007399;
-  border-style: outset;
+a{color: #00b3b3;
+  font-size: 17px;
 }
