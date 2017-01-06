@@ -22,6 +22,18 @@ body{
 .panel-body{
   font-size: 17px;
 }
-.well {
+.well{
   background: linear-gradient(to bottom right, #009999 25%,  #006666 75%);
+}
+.about{
+  font-size: 15px;
+  font-style: oblique;
+}
+.Morocco{
+  height: 500px;
+  width: 350px;
+  margin: 30px;
+  border: 8px;
+  border-color: #007399;
+  border-style: outset;
 }
