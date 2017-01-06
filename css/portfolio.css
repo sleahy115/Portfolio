@@ -13,3 +13,15 @@ h1{
   color: #003333;
   background: linear-gradient(to bottom right, #009999 25%,  #006666 75%);
 }
+body{
+  background: linear-gradient(to top left, #e6ffff 25%,  #99ccff 75%);
+}
+.panel-title{
+  font-size: 20px;
+}
+.panel-body{
+  font-size: 17px;
+}
+.well {
+  background: linear-gradient(to bottom right, #009999 25%,  #006666 75%);
+}
