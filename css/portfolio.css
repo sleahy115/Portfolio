@@ -24,6 +24,16 @@ h1{
   border-color: #007399;
   border-style: outset;
 }
+.traveler{
+  height: 350px;
+  width: 350px;
+  margin: 100px;
+}
+.Denver{
+  width: 500px;
+  height: 300px;
+  margin: 20px;
+}
 body{
   background: linear-gradient(to top left, #e6ffff 25%,  #99ccff 75%);
 }
@@ -45,4 +55,10 @@ body{
 }
 a{color: #00b3b3;
   font-size: 17px;
+}
+.Denver-text{
+  text-align: center;
+  font-size: 20px;
+  font-family: monospace;
+  color: #00b3b3;
 }
