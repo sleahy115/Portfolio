@@ -2,8 +2,14 @@
   height: 500px;
   width: 350px;
   margin: 30px;
-  border: 100px;
+  border: 8px;
+  border-color: #007399;
+  border-style: outset;
 }
 h1{
   text-align: center;
+}
+.jumbotron{
+  color: #003333;
+  background: linear-gradient(to bottom right, #009999 25%,  #006666 75%);
 }
