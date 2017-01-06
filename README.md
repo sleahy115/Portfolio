@@ -6,7 +6,7 @@
 
 ## Description
 
-_This page is a landing page for a portfolio. It includes links to current projects, a little bit about the author and their experience or certifications._
+_This is a landing page for a portfolio. It includes links to current projects, prospective projects, and  a little bit about the author and their experience or certifications._
 
 ## Setup/Installation Requirements
 
@@ -16,14 +16,14 @@ _This page is a landing page for a portfolio. It includes links to current proje
 
 ## Support and contact details
 
-_{If there are any concerns or comments about this page please email sleahy115@gmail.com}_
+_If there are any concerns or comments about this page please email sleahy115@gmail.com_
 
 ## Technologies Used
 
-_{This site utilizes HTML, a custom CSS stylesheet and Bootstrap CSS.}_
+_This site utilizes HTML, a custom CSS stylesheet and Bootstrap CSS._
 
 ### License
 
-*{licensed under the MIT License}*
+*licensed under the MIT License*
 
-Copyright (c) 2017 **_{Sarah Leahy}_**
+Copyright (c) 2017 **_Sarah Leahy_**
