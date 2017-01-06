@@ -28,11 +28,18 @@ h1{
   height: 350px;
   width: 350px;
   margin: 100px;
+  border: 25px;
+  border-style: inset;
+  border-color: #007399;
+
 }
 .Denver{
   width: 500px;
   height: 300px;
   margin: 20px;
+  border: 30px;
+  border-color: #007399;
+  border-style: outset;
 }
 body{
   background: linear-gradient(to top left, #e6ffff 25%,  #99ccff 75%);
@@ -61,4 +68,8 @@ a{color: #00b3b3;
   font-size: 20px;
   font-family: monospace;
   color: #00b3b3;
+}
+.color-text{
+  font-size: 18px;
+  color: #007399;
 }
