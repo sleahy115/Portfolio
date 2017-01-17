@@ -15,11 +15,11 @@ _This is a landing page for a portfolio. It includes links to current projects, 
 
 ## Support and contact details
 
-_{If there are any concerns or comments about this page please email sleahy115@gmail.com}_
+_If there are any concerns or comments about this page please email sleahy115@gmail.com_
 
 ## Technologies Used
 
-_{This site utilizes HTML, a custom CSS stylesheet and Bootstrap CSS.}_
+_This site utilizes HTML, a custom CSS stylesheet and Bootstrap CSS._
 
 ### License
 
