@@ -11,7 +11,9 @@ _This page is a landing page for a portfolio. It includes links to current proje
 _This is a landing page for a portfolio. It includes links to current projects, prospective projects, and  a little bit about the author and their experience or certifications._
 
 ## Setup/Installation Requirements
-* _This page can be access by cloning the repository then opening https://sleahy115.github.io/Portfolio/_ in the browser.
+* _Clone the portfolio repository from git hub_
+* _open in browser_
+*_the page can also be accessed at https://sleahy115.github.io/Portfolio/_
 
 ## Support and contact details
 
